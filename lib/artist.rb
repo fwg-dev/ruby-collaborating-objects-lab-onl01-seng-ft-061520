@@ -17,4 +17,7 @@ end
 def songs
     @songs
 end
+
+def find_or_create_by_name
+end
 end
