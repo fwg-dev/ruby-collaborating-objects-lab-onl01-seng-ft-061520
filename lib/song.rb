@@ -1,5 +1,5 @@
-class Song 
-end 
+class Song
+end
 
 
 
