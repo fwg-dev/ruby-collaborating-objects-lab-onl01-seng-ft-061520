@@ -14,7 +14,7 @@ end
 def add_song
     @songs << song
 end
-# def songs
-#     @songs
-# end
+def songs
+    @songs
+end
 end
